@@ -1,2 +1,2 @@
 
-var recipse = {object};
+var recipes = {object};
