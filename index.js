@@ -1,2 +1,2 @@
 
-var recipse = {key: value};
+var recipse = {object};
