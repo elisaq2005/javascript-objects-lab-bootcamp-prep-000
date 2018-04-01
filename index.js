@@ -1,2 +1,2 @@
-function 
-var recipes = {object};
+
+var recipe = {key: value};
